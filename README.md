@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me sohrabkhan63178@gmail.com
+- 📫 How to reach me sohrabprofile@gmail.com
 
 <!---
 sohrabprofile/sohrabprofile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
