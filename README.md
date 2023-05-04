@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sohrabprofile
+- 👋 Hi, I’m Sohrab Khan
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m a Django Developer
+- 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me sohrabprofile@gmail.com
 
 <!---
